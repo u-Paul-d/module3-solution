@@ -59,6 +59,13 @@ body {
 /* END HEADER */
 
 /* HOME PAGE */
+.our-menu{
+  
+  text-align: center;
+  font-size: 3em;
+  margin-bottom: 20px;
+  font-family: 'Piedra', cursive;
+}
 #chicken-tile, #beef-tile, #sushi-tile {
   height: auto;
   width: 100%;
